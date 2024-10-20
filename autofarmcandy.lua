@@ -8,7 +8,7 @@ end
 wait(3.25)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptPhantom/SlapBattles/refs/heads/main/autofarmcandy.lua))()
 
-    ]])
+                ]])
 end
 
 if workspace:FindFirstChild("SafeBox") == nil then
