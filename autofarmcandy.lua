@@ -6,7 +6,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 wait(3.25)
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptPhantom/SlapBattles/refs/heads/main/autofarmcandy.lua))()
 
     ]])
 end
