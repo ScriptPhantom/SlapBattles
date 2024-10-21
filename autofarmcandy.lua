@@ -123,7 +123,7 @@ local function checkCandyCount()
     end
 
     -- Проверяем, достигли ли 2000 конфет
-    if currentCount and currentCount >= 2000 then
+    if currentCount and currentCount = 2000 then
         game:Shutdown() -- Завершение игры
     end
 end
